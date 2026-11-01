@@ -1,48 +1,39 @@
-<h1 align="center">Hi, I'm Saniya Banu BK 👋</h1> <h3 align="center">Aspiring Data Analyst | Data Science & Analytics with Generative AI</h3> <p align="center"> 📊 Passionate about data, technology, and problem-solving.<br> 🎓 BCA Graduate | Currently learning Data Science & Analytics with Generative AI at Imarticus Learning. </p> <p align="center"> <a href="https://www.linkedin.com/in/saniyabk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:saniyabk024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/saniyabk024-gif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> </p>
-🚀 About Me
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=170&section=header&text=Saniya%20Banu%20BK&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=18&descAlignY=60" width="100%" alt="Banner" />
+Aspiring Data Analyst | Data Science & Analytics with Generative AI
 
-I'm an aspiring Data Analyst interested in transforming raw data into meaningful insights. I'm a fresher who enjoys learning new technologies, exploring datasets, and solving real-world problems using data.
+BCA Graduate  •  Imarticus Learning  •  Turning raw data into meaningful insights
 
-💻 Skills & Tech Stack
+<a href="https://www.linkedin.com/in/saniyabk"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:saniyabk024@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Open_to_Work-Data_Analyst-057642?style=for-the-badge" alt="Open to work">
 
-Programming
+</div>
+About
 
-Show Image Show Image Show Image
+I'm an aspiring Data Analyst who enjoys turning raw data into clear, meaningful insights. As a fresher, I love learning new technologies, exploring datasets, and solving real-world problems with data.
 
-Data Analysis
+I'm passionate about data, technology, and problem-solving, and I'm building my skills through hands-on projects.
 
-Show Image Show Image Show Image
-
-Visualization
-
-Show Image Show Image
-
-Database
-
-Show Image
-
-Other Skills: Communication • Problem Solving • Teamwork
-
-📂 Featured Projects
-#	Project	Description
-1	Smart EV Charging Station Locator	Android-based application to find nearby EV charging stations and book charging slots.
-2	Trade Performance Dashboard	Analyzing sales, profit, orders, and regional performance.
-3	Data Analysis Projects	Exploring datasets using Python, Pandas, and visualization.
-4	SQL Projects	Practicing database queries and data management.
-🌱 Currently Learning
-🐍 Python for Data Analysis
-🗄️ SQL and Database Management
-📈 Power BI and Data Visualization
-🤖 Generative AI
-📐 Statistics and Exploratory Data Analysis
-🎯 Career Goal
+Education
+	
+🎓 Data Science & Analytics with Generative AI	Imarticus Learning  •  Currently learning
+🎓 Bachelor of Computer Applications (BCA)	Graduate
+Skills
+<table> <tr> <td><b>Programming</b></td> <td> <img src="https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-0A66C2?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-0A66C2?style=flat-square&logo=javascript&logoColor=white" /> </td> </tr> <tr> <td><b>Data Analysis</b></td> <td> <img src="https://img.shields.io/badge/Excel-0A66C2?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-0A66C2?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-0A66C2?style=flat-square&logo=numpy&logoColor=white" /> </td> </tr> <tr> <td><b>Visualization</b></td> <td> <img src="https://img.shields.io/badge/Power_BI-0A66C2?style=flat-square&logo=powerbi&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-0A66C2?style=flat-square&logo=tableau&logoColor=white" /> </td> </tr> <tr> <td><b>Database</b></td> <td> <img src="https://img.shields.io/badge/MySQL-0A66C2?style=flat-square&logo=mysql&logoColor=white" /> </td> </tr> <tr> <td><b>Soft Skills</b></td> <td>Communication &nbsp;•&nbsp; Problem Solving &nbsp;•&nbsp; Teamwork</td> </tr> </table>
+Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h4>⚡ Smart EV Charging Station Locator</h4> Android-based application to find nearby EV charging stations and book charging slots. </td> <td width="50%" valign="top"> <h4>📈 Trade Performance Dashboard</h4> Analyzing sales, profit, orders, and regional performance. </td> </tr> <tr> <td width="50%" valign="top"> <h4>🔍 Data Analysis Projects</h4> Exploring datasets using Python, Pandas, and visualization. </td> <td width="50%" valign="top"> <h4>🗄️ SQL Projects</h4> Practicing database queries and data management. </td> </tr> </table>
+Currently Learning
+Python for Data Analysis
+SQL and Database Management
+Power BI and Data Visualization
+Generative AI
+Statistics and Exploratory Data Analysis
+Career Goal
 
 To become a skilled Data Analyst and grow towards Data Science by continuously learning and building real-world projects.
 
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=saniyabk024-gif&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyabk024-gif&layout=compact&hide_border=true" alt="Top Languages" /> </p>
-📫 Connect With Me
-💼 LinkedIn: linkedin.com/in/saniyabk
-🐙 GitHub: github.com/saniyabk024-gif
-✉️ Email: saniyabk024@gmail.com
-<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
+Let's Connect
+<div align="center">
+Platform	Link
+💼 LinkedIn	linkedin.com/in/saniyabk
+🐙 GitHub	github.com/saniyabk024-gif
+✉️ Email	saniyabk024@gmail.com
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%" alt="Footer" />
