@@ -31,9 +31,4 @@ Career Goal
 To become a skilled Data Analyst and grow towards Data Science by continuously learning and building real-world projects.
 
 Let's Connect
-<div align="center">
-Platform	Link
-💼 LinkedIn	linkedin.com/in/saniyabk
-🐙 GitHub	github.com/saniyabk024-gif
-✉️ Email	saniyabk024@gmail.com
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%" alt="Footer" />
+<p align="center"> <a href="https://www.linkedin.com/in/saniyabk"><img src="https://img.shields.io/badge/LinkedIn-saniyabk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/saniyabk024-gif"><img src="https://img.shields.io/badge/GitHub-saniyabk024--gif-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p> <p align="center"> 💼 <a href="https://www.linkedin.com/in/saniyabk">linkedin.com/in/saniyabk</a><br> 🐙 <a href="https://github.com/saniyabk024-gif">github.com/saniyabk024-gif</a><br> ✉️ saniyabk024@gmail.com </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%" alt="Footer" />
